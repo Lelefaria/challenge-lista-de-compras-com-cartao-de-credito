@@ -25,9 +25,3 @@ O usuário informa o limite do cartão de crédito e vai adicionando compras. Ca
 
 - Java 17+
 - IDE IntelliJ
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/lista-compras-cartao.git
